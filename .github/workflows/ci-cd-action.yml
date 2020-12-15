@@ -15,4 +15,3 @@ jobs:
                 nuget-version: '5.x'
             - run: nuget restore Nuget.sln
             - run: dotnet build /Test/Test.csproj
-	
