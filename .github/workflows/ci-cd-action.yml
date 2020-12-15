@@ -1,5 +1,4 @@
 name: nuget-ci-cd
-description: 'Official NuGet.exe setup action that supports cross-platform installation of specific NuGet.exe versions.'
 on:
     push:
         branches: [master]
